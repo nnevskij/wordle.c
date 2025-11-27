@@ -3,12 +3,19 @@
 Wordle game written in C in less than 200 loc.
 ![Game Screenshot](screenshot.png)
 
-To compile:
+### Getting started
+Clone the repository by running
+```bash
+git clone https://github.com/enricocristaudo/wordle.c.git
+```
+
+Then, compile:
 ```zsh
+cd wordle.c
 gcc wordle.c -o wordle
 ```
 
-To run:
+And run:
 ```zsh
 ./wordle
 ```
