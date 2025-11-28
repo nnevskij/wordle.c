@@ -162,7 +162,7 @@ int main(int argc, char* argv[]) {
 
 	for(int i=0; i<g_config.max_attempts; i++) {
 
-		printf("\nGUESS #%d:\n", i+1);
+		printf("\nGUESS #%d/%d:\n", i+1, g_config.max_attempts);
 		printf(">>> ");
 
 		char guess[g_config.word_sz + 1];
