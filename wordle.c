@@ -37,7 +37,7 @@ void print_title() {
 	printf("    ▒▒▒▒ ▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒▒       ▒▒▒▒▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒  ▒▒▒▒▒▒  \n");
 	printf("\n");
 	printf("                             Made with <3 by                              \n");
-	printf("                  https://github.com/enricocristaudo                      \n");
+	printf("                      https://github.com/nnevskij                         \n");
 	printf("\n");
 }
 
