@@ -6,7 +6,7 @@ Wordle game written in C in less than 200 loc.
 ### Getting started
 Clone the repository by running
 ```bash
-git clone https://github.com/enricocristaudo/wordle.c.git
+git clone https://github.com/nnevskij/wordle.c.git
 ```
 
 Then, compile:
