@@ -22,7 +22,7 @@ And run:
 
 ### Advanced options
 You can customize the game difficulty using flags:
-- `-s [number]`: Set the lenght of the word to guess.
+- `-s [number]`: Set the length of the word to guess.
 - `-a [number]`: Set the maximum Attempts.
 - `-it`: Set dictionary to italian.
 
